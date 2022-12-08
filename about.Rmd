@@ -1,0 +1,16 @@
+---
+title: "Course Communication"
+output: html_document
+---
+
+<u>Courseworks:</u>
+<br>
+The course’s assignments should be submitted on CourseWorks. 
+<br>
+<u>Office Hours:</u>
+<br>
+<u>E-mail:</u>
+<br>
+
+<br>
+

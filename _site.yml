@@ -1,0 +1,54 @@
+name: "ABOUT US"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Topics"
+      menu:
+      - text: "Introduction/Orientation"
+        href: introduction_orientation.html
+      - text: "Wrangling 101"
+        href: wrangling_101.html
+      - text: "Wrangling 102"
+        href: wrangling_102.html
+      - text: "Generating data (surveys)"
+        href: generating_data_surveys.html
+      - text: "Generating data (lab)"
+        href: generating_data_lab.html
+      - text: "Missingness"
+        href: missingness.html
+      - text: "Sampling and Significance"
+        href: sampling_significance.html
+      - text: "Toxicology"
+        href: toxicology.html
+      - text: "Survey"
+        href: survey.html
+      - text: "Associations 101"
+        href: associations_101.html
+      - text: "Associations 102"
+        href: associations_102.html
+      - text: "Time series"
+        href: time_series.html
+      - text: "Anomalies"
+        href: anomalies.html
+    - text: "Datasets"
+      menu:
+      - text: Public dataset
+    - text: "Assignments"
+      href: assignments.html
+    - text: "Communication"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<analysisofehd@gmail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/analysisofehd
+   
+output:
+  html_document:
+    self_contained: no
+    theme: yeti
+    highlight: tango
+      

@@ -1,0 +1,15 @@
+---
+title: "Schedule"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Schedule
+
+</br>
+ 
+| Date | Topic | Lecture | Slides | HW | Projects |
+|:---------------------|:----------------------|:--------------------------------- |:------------|:------------|-----------:|
+| Mon Jan 11 | Introduction/Orientation | [Introduction/Orientation](introduction_orientation.html) | [<i class="fas fa-desktop fa-lg"></i>](slides/Class_1_Slides_FINAL2021.pdf)        | [<i class="far fa-file-code fa-lg"></i>](assignments.html)  |                                 |

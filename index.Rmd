@@ -1,0 +1,38 @@
+---
+title: "Analysis of Environmental Health Data"
+---
+
+<br>
+<p align = "center">
+<img src = "Images/AEHD.png" style = "width:40%">
+</p>
+<br>
+
+***
+<font size="3" color="gray">Data is the foundation of all research and becoming comfortable reading about, describing, analyzing, interpreting, summarizing and presenting EHS data is critical for the success of all environmental health scientists. Therefore, all EHS MPH graduates should know how to work with the types of data they will typically encounter in EHS-related research settings. This course will teach students how to work with these data at a fundamental level which includes a focus on data configuration, organization, and preparation as well as learning to apply techniques to generate, describe, summarize, and conduct basic analyses relevant to all EHS certificates.
+
+<br>
+
+We will use real datasets to illustrate analytic techniques, common problems, and approaches typical to environmental/molecular epidemiology, toxicology, EHS policy, air pollution and climate time-series.
+
+<br>
+
+***
+
+#### Syllabus
+
+The course syllabus can be accessed [here](Downloads/Analysis of Environmental Health Data (P6360).pdf).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ ***
+ 
+ **Copyright © 2021 AEHD.**      Website designed by Ahlam Abuawad.       _Website last updated: `r format(Sys.Date(), "%m.%d.%Y")`_
+

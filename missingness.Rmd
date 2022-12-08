@@ -1,0 +1,13 @@
+---
+title: "Missingess"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+<p align = "center">
+<img src = "Images/construction2.png" style = "width:80%">
+</p>
+<br>
+
+</br>
